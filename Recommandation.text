@@ -1,0 +1,21 @@
+It contain Three Type of Setting in one exported file.
+To import it three settings will be shown in emulator and tick in all three checkbox and save it 
+
+recommand and optimize:
+
+1.For high sensi settings:
+    -recommanded resolution is 1600x900 or 1920x1080 .
+    -Emulator Dpi 320 or 600
+    -mouse Dpi 800 to 1200 .
+
+2.2nd Settings: 
+    -This settings contain Minus tweak .
+    -recommanded resolution is 1600x900 or Low End PC Try 960x540 .
+    -Emulator Dpi 320.
+    -mouse Dpi 1200 to 1800 .
+    
+3.3rd Settings: 
+    -This Settings contain another Minus tweak .   
+    -recommanded resolution is 1600x900 or 1920x1080 .
+    -Emulator Dpi 320 .
+    -mouse Dpi 1200 to 1800 .
