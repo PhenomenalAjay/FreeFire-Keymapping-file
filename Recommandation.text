@@ -1,9 +1,11 @@
+# Extract Password : 10 
+# AFter extract it contain .cfg file that is keymapping Settings.
 # It contain Three Type of Setting in one exported file.
 # To import it three settings will be shown in emulator and tick all three checkbox and save it .
 
-## Recommand and optimize:
+## Steps For Recommand and optimize:
 
-1. For high sensi settings:
+1. 1st (High sensi) settings:
     -Recommanded resolution is 1600x900 or 1920x1080 .
     -Emulator Dpi 320 or 600
     -mouse Dpi 800 to 1200 .
